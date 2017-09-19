@@ -1,6 +1,6 @@
 <template>
   <div>
-MINE
+MINE 温贝贝
   </div>
 </template>
 

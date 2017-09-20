@@ -12,6 +12,7 @@ Vue.use(MintUI)
 Vue.config.productionTip = false
 Vue.prototype.axios = axios 
 
+
 //公用的组件在这里注册
 
 import vHeader from "./components/public/Header"
